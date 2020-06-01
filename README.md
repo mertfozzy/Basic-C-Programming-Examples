@@ -3,7 +3,7 @@
 
 Selamlar.
 
-Bu repository içerisinde C programlamaya yeni başlayanlar için oluşturulmuş 19 farklı kod örneği bulunmaktadır.
+Bu repository içerisinde C programlamaya yeni başlayanlar için oluşturulmuş 19 farklı basit kod örneği bulunmaktadır.
 
 Kod dosyalarını indirip inceleyerek C hakkında yeni fikirler edinebilirisiniz.
 
